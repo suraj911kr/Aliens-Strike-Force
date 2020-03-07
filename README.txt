@@ -1,0 +1,1 @@
+This is a 2D game using python library pygame.
